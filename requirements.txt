@@ -1,0 +1,6 @@
+fastapi==0.95.1
+gunicorn
+pydantic
+pynest-api==0.1.2
+python-dotenv==1.0.0
+uvicorn==0.23.1
